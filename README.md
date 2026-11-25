@@ -20,16 +20,12 @@
 <!-- ===================== ABOUT ===================== -->
 <h3 align="left">🧑‍💻 About Me</h3>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="coding" />
-
 - 🔭 I build clean, responsive and user-friendly web applications
 - 🌱 Currently sharpening my skills in **React** and **Python for Data Science**
 - 💼 Experienced with **ERP-style business apps** – forms, reports, dashboards
 - 👯 Open to collaborating on **frontend & full-stack** projects
 - 💬 Ask me about **JavaScript, PHP, MySQL, React**
 - ⚡ Fun fact: I debug better after a cup of chai ☕
-
-<br clear="right"/>
 
 ---
 
@@ -78,7 +74,7 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathishaithal&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sathishaithal&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide=stars,prs,issues,contribs&hide_rank=true&v=3" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -86,11 +82,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishaithal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=sathishaithal&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&v=2" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishaithal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishaithal&theme=tokyo-night&hide_border=true&area=true&v=2" alt="Contribution graph" />
 </p>
 
 ---
